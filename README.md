@@ -29,6 +29,6 @@
  </p>
 
  <br><br>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stju0101&show_icons=true&locale=en" alt="stju0101" /></p>
+<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stju0101&show_icons=true&locale=en" alt="stju0101" /></p> -->
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stju0101&" alt="stju0101" /></p>
