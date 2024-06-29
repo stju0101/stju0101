@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="hi.gif" width="200" height="200">
+    <img src="hi.gif" width="500" height="200">
 </div>
 
 
@@ -29,7 +29,10 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    
 </p>
+
+<br><br>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stju0101&" alt="stju0101" /></p>
 
 <br><br>
