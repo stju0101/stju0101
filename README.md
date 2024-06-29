@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="hi.svg" width="400" height="100">
+    <img src="hi.gif" width="400" height="100">
 </div>
 
 
@@ -33,5 +33,3 @@
 </p>
 
 <br><br>
-
-<p align="center"><img ali
